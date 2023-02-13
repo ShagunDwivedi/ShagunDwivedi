@@ -16,8 +16,6 @@
 
   taskQueue         Learning gamedev with Python, creating a cliche weather app.
 
-  trivia            Morbidly afraid of ontological philosophy.
-
 ````
 
 ````bash
@@ -43,8 +41,6 @@
 > help --contact
 
   LinkedIn          shagundwivedi
-
-  GitHub            shagundwivedi
 
 ````
 
